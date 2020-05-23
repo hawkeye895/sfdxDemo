@@ -1,3 +1,6 @@
 <aura:component>
+    <aura:attribute/>
+
+    <h1>Calculator</h1>
 
 </aura:component>	
